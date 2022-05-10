@@ -1,2 +1,5 @@
 data/*
 model.pt
+acc_by_class.jpg
+testing_accuracy.jpg
+training_loss.jpg
